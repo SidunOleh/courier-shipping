@@ -1,1 +1,1 @@
-# Couriere shipping method for Woocommerce
+# Couriere shipping method for WooCommerce
